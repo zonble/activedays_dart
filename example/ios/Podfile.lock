@@ -1,0 +1,22 @@
+PODS:
+  - active_days (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - active_days (from `.symlinks/plugins/active_days/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  active_days:
+    :path: ".symlinks/plugins/active_days/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  active_days: 724a5bdd5a480b5becc87f878a451ba473f1bdc9
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+
+COCOAPODS: 1.6.0
